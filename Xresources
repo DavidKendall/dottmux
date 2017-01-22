@@ -39,7 +39,7 @@ xterm*VT100.Translations: #override \
 
 ! Original theme just had
 ! *.foreground etc. but this 
-! didn't seem to have any effect on
+! did not seem to have any effect on
 ! my xterm
  xterm*foreground:   base05
  xterm*background:   base00
